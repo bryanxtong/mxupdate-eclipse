@@ -4,8 +4,8 @@ This is the mxupdate eclipse plug-in which is used for eplm.
 
 1. These jars got compiled from the source code version 0.10.0
       
-			put the org.mxupdate.eclipse_0.10.0.jar to the eclipse plugins folder
-      put org.mxupdate.eclipse_0.10.0-feature.jar to the features folder
+		 put the org.mxupdate.eclipse_0.10.0.jar to the eclipse plugins folder
+		 put org.mxupdate.eclipse_0.10.0-feature.jar to the features folder
 			
 2. right click your PLM project and configure the Mx update setting
      
